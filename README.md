@@ -4,9 +4,7 @@
 
 - 🔭 I’m currently working on **Docplix**
 
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **Php, Laravel, NodeJs**
+- 💬 Ask me about **Php, Laravel, NodeJs, React**
 
 - 📫 How to reach me **aman.bhumca2015@gmail.com**
 
